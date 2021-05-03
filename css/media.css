@@ -1,0 +1,5 @@
+@media (max-width: 437px){
+    body .main-container .profile-card{
+        width: 80%;
+    }
+}
